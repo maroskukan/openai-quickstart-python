@@ -25,9 +25,10 @@ body {
   flex-direction: column;
   align-items: center;
   padding-top: 60px;
+  background-color: #edeceb;
 }
 .icon {
-  width: 64px;
+  width: 128px;
 }
 h3 {
   font-size: 32px;
